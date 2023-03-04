@@ -1,0 +1,14 @@
+RJRN
+0,1
+MNMM
+0,0
+BOOJ
+1,1
+BGJV
+0,3
+JVBJ
+2,0
+JVOG
+0,2
+GBBJ
+4,0
